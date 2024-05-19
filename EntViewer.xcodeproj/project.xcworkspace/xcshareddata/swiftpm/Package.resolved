@@ -1,0 +1,15 @@
+{
+  "originHash" : "9a39ea76d3e77ab2d229a1d0e79eb3999b084a4849b738ac414c9f3f538b9feb",
+  "pins" : [
+    {
+      "identity" : "entlib",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/nikhilbhawsar/EntLib.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "91c632df7a94cf26f161e2109ffef16c2abed4a7"
+      }
+    }
+  ],
+  "version" : 3
+}
